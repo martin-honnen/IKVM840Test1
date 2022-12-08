@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IKVM840Test1", "IKVM840Test1\IKVM840Test1.msbuildproj", "{DBD5B6EE-8086-471E-A564-F67091DD49FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKVM840UseJavaFromConsoleAppTest1", "IKVM840UseJavaFromConsoleAppTest1\IKVM840UseJavaFromConsoleAppTest1.csproj", "{A8386333-81C8-44D9-BF62-2C17B3983ED4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DBD5B6EE-8086-471E-A564-F67091DD49FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD5B6EE-8086-471E-A564-F67091DD49FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD5B6EE-8086-471E-A564-F67091DD49FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8386333-81C8-44D9-BF62-2C17B3983ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8386333-81C8-44D9-BF62-2C17B3983ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8386333-81C8-44D9-BF62-2C17B3983ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8386333-81C8-44D9-BF62-2C17B3983ED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

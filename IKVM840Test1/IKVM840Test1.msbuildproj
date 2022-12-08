@@ -2,9 +2,11 @@
     <PropertyGroup>
         <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
     </PropertyGroup>
-    <ItemGroup>
+	<!--
+	<ItemGroup>
       <Compile Remove="Test1.java" />
     </ItemGroup>
+	-->
     <ItemGroup>
       <None Include="Test1.java" />
     </ItemGroup>
