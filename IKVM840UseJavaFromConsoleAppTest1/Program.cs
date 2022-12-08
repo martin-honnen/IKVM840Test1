@@ -6,7 +6,7 @@ namespace IKVM840UseJavaFromConsoleAppTest1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World: {0}", new Test1().getJavaVersion());
+            Console.WriteLine("Hello World: .NET {0}, Java {1}", Environment.Version, new Test1().getJavaVersion());
         }
     }
 }
